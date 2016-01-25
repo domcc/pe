@@ -44,8 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Problems\Problem1Test.cs" />
-    <Compile Include="Problems\Problem2Test.cs" />
+    <Compile Include="Problems\Problem1MultiplesOf3And5Test.cs" />
+    <Compile Include="Problems\Problem2EventFibonacciNumbersTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

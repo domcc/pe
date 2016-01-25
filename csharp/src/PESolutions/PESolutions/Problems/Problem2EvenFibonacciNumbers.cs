@@ -10,7 +10,7 @@ namespace PESolutions.Problems
     /// By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms
     /// </remarks>
     /// </summary>
-    public class Problem2
+    public class Problem2EvenFibonacciNumbers
     {
         public int Solution(int number)
         {
