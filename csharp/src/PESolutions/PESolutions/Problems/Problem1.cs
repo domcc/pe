@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PESolutions.Problems
+﻿namespace PESolutions.Problems
 {
     /// <summary>
     /// Multiples of 3 and 5
