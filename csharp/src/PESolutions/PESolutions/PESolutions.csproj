@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Problems\Problem1MultiplesOf3And5.cs" />
     <Compile Include="Problems\Problem2EvenFibonacciNumbers.cs" />
+    <Compile Include="Problems\Problem3LargestPrimeFactor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
