@@ -53,6 +53,7 @@
     <Compile Include="Problems\Problem6SumSquareDifferenceTest.cs" />
     <Compile Include="Problems\Problem710001stPrimeTest.cs" />
     <Compile Include="Problems\Problem8LargestProductInASeriesTest.cs" />
+    <Compile Include="Problems\Problem9SpecialPythagoreanTripletTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

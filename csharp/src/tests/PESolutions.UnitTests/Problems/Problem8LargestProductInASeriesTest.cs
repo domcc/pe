@@ -18,7 +18,7 @@ namespace PESolutions.UnitTests.Problems
         {
             Problem8LargestProductInASeries problem = new Problem8LargestProductInASeries();
             var solution = problem.Solution(13);
-            Assert.AreEqual(25164150, solution);
+            Assert.AreEqual(23514624000, solution);
         }
     }
 }

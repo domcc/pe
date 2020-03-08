@@ -18,7 +18,7 @@ namespace PESolutions.UnitTests.Problems
         {
             Problem710001stPrime problem = new Problem710001stPrime();
             var solution = problem.Solution(10001);
-            Assert.AreEqual(25164150, solution);
+            Assert.AreEqual(104743, solution);
         }
     }
 }
