@@ -47,6 +47,7 @@
     <Compile Include="Problems\Problem4LargestPalindromeProduct.cs" />
     <Compile Include="Problems\Problem5SmallestMultiple.cs" />
     <Compile Include="Problems\Problem6SumSquareDifference.cs" />
+    <Compile Include="Problems\Problem710001stPrime.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

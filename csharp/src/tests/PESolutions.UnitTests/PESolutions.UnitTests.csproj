@@ -51,6 +51,7 @@
     <Compile Include="Problems\Problem4LargestPalidromeProductTest.cs" />
     <Compile Include="Problems\Problem5SmallestMultipleTest.cs" />
     <Compile Include="Problems\Problem6SumSquareDifferenceTest.cs" />
+    <Compile Include="Problems\Problem710001stPrimeTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
