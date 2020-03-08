@@ -45,16 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Problems\Problem10SummationOfPrimesTest.cs" />
-    <Compile Include="Problems\Problem1MultiplesOf3And5Test.cs" />
-    <Compile Include="Problems\Problem2EventFibonacciNumbersTest.cs" />
-    <Compile Include="Problems\Problem3LargestPrimeFactorTest.cs" />
-    <Compile Include="Problems\Problem4LargestPalidromeProductTest.cs" />
-    <Compile Include="Problems\Problem5SmallestMultipleTest.cs" />
-    <Compile Include="Problems\Problem6SumSquareDifferenceTest.cs" />
-    <Compile Include="Problems\Problem710001stPrimeTest.cs" />
-    <Compile Include="Problems\Problem8LargestProductInASeriesTest.cs" />
-    <Compile Include="Problems\Problem9SpecialPythagoreanTripletTest.cs" />
+    <Compile Include="Problems\Problem0010SummationOfPrimesTest.cs" />
+    <Compile Include="Problems\Problem0001MultiplesOf3And5Test.cs" />
+    <Compile Include="Problems\Problem0002EventFibonacciNumbersTest.cs" />
+    <Compile Include="Problems\Problem0003LargestPrimeFactorTest.cs" />
+    <Compile Include="Problems\Problem0004LargestPalindromeProductTest.cs" />
+    <Compile Include="Problems\Problem0005SmallestMultipleTest.cs" />
+    <Compile Include="Problems\Problem0006SumSquareDifferenceTest.cs" />
+    <Compile Include="Problems\Problem000710001stPrimeTest.cs" />
+    <Compile Include="Problems\Problem0008LargestProductInASeriesTest.cs" />
+    <Compile Include="Problems\Problem0009SpecialPythagoreanTripletTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

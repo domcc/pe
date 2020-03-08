@@ -7,7 +7,7 @@ namespace PESolutions.Problems
     /// A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
     /// Find the largest palindrome made from the product of two 3-digit numbers.
     /// </summary>
-    public class Problem4LargestPalindromeProduct
+    public class Problem0004LargestPalindromeProduct
     {
         public (int, int, int) Solution(int numberOfDigits)
         {

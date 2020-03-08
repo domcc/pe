@@ -9,7 +9,7 @@ namespace PESolutions.Problems
     ///
     /// Find the sum of all the primes below two million.
     /// </summary>
-    public class Problem10SummationOfPrimes
+    public class Problem0010SummationOfPrimes
     {
         public long Solution1(int primesBelow)
         {

@@ -28,7 +28,7 @@ namespace PESolutions.Problems
     ///
     ///Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
     /// </summary>
-    public class Problem8LargestProductInASeries
+    public class Problem0008LargestProductInASeries
     {
         private const string LargeNumber = "73167176531330624919225119674426574742355349194934" +
                                            "96983520312774506326239578318016984801869478851843" +

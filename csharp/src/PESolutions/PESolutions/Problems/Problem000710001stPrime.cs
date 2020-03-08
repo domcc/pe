@@ -8,7 +8,7 @@ namespace PESolutions.Problems
     ///
     /// What is the 10 001st prime number?
     /// </summary>
-    public class Problem710001stPrime
+    public class Problem000710001stPrime
     {
         public long Solution(int nthPrime)
         {

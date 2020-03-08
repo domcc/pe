@@ -41,16 +41,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Problems\Problem10SummationOfPrimes.cs" />
-    <Compile Include="Problems\Problem1MultiplesOf3And5.cs" />
-    <Compile Include="Problems\Problem2EvenFibonacciNumbers.cs" />
-    <Compile Include="Problems\Problem3LargestPrimeFactor.cs" />
-    <Compile Include="Problems\Problem4LargestPalindromeProduct.cs" />
-    <Compile Include="Problems\Problem5SmallestMultiple.cs" />
-    <Compile Include="Problems\Problem6SumSquareDifference.cs" />
-    <Compile Include="Problems\Problem710001stPrime.cs" />
-    <Compile Include="Problems\Problem8LargestProductInASeries.cs" />
-    <Compile Include="Problems\Problem9SpecialPythagoreanTriplet.cs" />
+    <Compile Include="Problems\Problem0010SummationOfPrimes.cs" />
+    <Compile Include="Problems\Problem0001MultiplesOf3And5.cs" />
+    <Compile Include="Problems\Problem0002EvenFibonacciNumbers.cs" />
+    <Compile Include="Problems\Problem0003LargestPrimeFactor.cs" />
+    <Compile Include="Problems\Problem0004LargestPalindromeProduct.cs" />
+    <Compile Include="Problems\Problem0005SmallestMultiple.cs" />
+    <Compile Include="Problems\Problem0006SumSquareDifference.cs" />
+    <Compile Include="Problems\Problem000710001stPrime.cs" />
+    <Compile Include="Problems\Problem0008LargestProductInASeries.cs" />
+    <Compile Include="Problems\Problem0009SpecialPythagoreanTriplet.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

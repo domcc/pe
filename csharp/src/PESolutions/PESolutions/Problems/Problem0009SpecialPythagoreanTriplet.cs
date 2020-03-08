@@ -12,7 +12,7 @@ namespace PESolutions.Problems
     /// There exists exactly one Pythagorean triplet for which a + b + c = 1000.
     /// Find the product abc.
     /// </summary>
-    public class Problem9SpecialPythagoreanTriplet
+    public class Problem0009SpecialPythagoreanTriplet
     {
         public (int a, int b, int c, int product) Solution1(int sum)
         {

@@ -3,12 +3,12 @@ using PESolutions.Problems;
 
 namespace PESolutions.UnitTests.Problems
 {
-    public class Problem9SpecialPythagoreanTripletTest
+    public class Problem0009SpecialPythagoreanTripletTest
     {
         [Test]
         public void Problem9SpecialPythagoreanTripletTest1()
         {
-            Problem9SpecialPythagoreanTriplet problem = new Problem9SpecialPythagoreanTriplet();
+            Problem0009SpecialPythagoreanTriplet problem = new Problem0009SpecialPythagoreanTriplet();
             var solution = problem.Solution1(12);
             Assert.AreEqual(3, solution.a);
             Assert.AreEqual(4, solution.b);
@@ -19,7 +19,7 @@ namespace PESolutions.UnitTests.Problems
         [Test]
         public void Problem9SpecialPythagoreanTripletTest2()
         {
-            Problem9SpecialPythagoreanTriplet problem = new Problem9SpecialPythagoreanTriplet();
+            Problem0009SpecialPythagoreanTriplet problem = new Problem0009SpecialPythagoreanTriplet();
             var solution = problem.Solution1(1000);
             Assert.AreEqual(200, solution.a);
             Assert.AreEqual(375, solution.b);
