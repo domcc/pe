@@ -16,7 +16,7 @@ namespace PESolutions.UnitTests.Problems
         }
         
         [Test]
-        public void LargestPrimeFactorTest2()
+        public void Problem4LargestPalindromeProductTest2()
         {
             Problem4LargestPalindromeProduct problem = new Problem4LargestPalindromeProduct();
             var solution = problem.Solution(3);
